@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Aplikasi Reminder Aldiama</string>
+    <string name="nama_lengkap">Aldiama Hari Octavian. Y</string>
+    <!-- String Untuk Di Main Activity-->
+    <string name="list_task">Daftar Tugas Anda</string>
+    <string name="no_data">Anda Belum Memiliki Tugas Apapun</string>
+    <string name="btn_addTask">Simpan Data</string>
+    <string name="todo">TODO</string>
+
+    <!-- String Untuk Di To Do XML -->
+    <string name="todo_title">Tugas Anda</string>
+    <string name="day">Day</string>
+    <string name="date">18</string>
+    <string name="month">Month</string>
+    
+    <!-- String untuk di custom_todo -->
+    <string name="judul">Judul Tugas Anda</string>
+    <string name="tanggal">Tanggal Tugas</string>
+    <string name="waktu">Waktu Tugas</string>
+</resources>
